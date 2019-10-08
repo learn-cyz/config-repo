@@ -5,6 +5,7 @@ sp:
     {\"id\":9, \"username\":\"ghi\",\"password\":\"789\"},
     {\"id\":99, \"username\":\"aaa\",\"password\":\"111\"}]"
     
+    
 spring:
   application:
     name: user-service
